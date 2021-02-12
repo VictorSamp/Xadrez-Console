@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZjCYqG2rj1a561fhvU2tdp13ZwJY3jIh9FDfDksjxt2XcAQFa9XsRHlmkhhThFCLQ0UTu7HhU00Z5XcT+6LG7w==",
+  "dgSpecHash": "dAB9g6JNt67WdJZhK0FwlDTedaYBi37+1IzQ9DhsOZNXFzLU894cYJrNb5MNZfMbF53woSHxK139ErHXg6A6wg==",
   "success": true,
-  "projectFilePath": "D:\\workspace\\Xadrez-Console\\Xadrez-Console\\Xadrez-Console.csproj",
+  "projectFilePath": "D:\\workspace\\xadrez-console\\Xadrez-Console\\Xadrez-Console.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

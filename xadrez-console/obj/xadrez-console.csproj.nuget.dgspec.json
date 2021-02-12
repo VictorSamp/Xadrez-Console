@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\workspace\\Xadrez-Console\\Xadrez-Console\\Xadrez-Console.csproj": {}
+    "D:\\workspace\\xadrez-console\\Xadrez-Console\\Xadrez-Console.csproj": {}
   },
   "projects": {
-    "D:\\workspace\\Xadrez-Console\\Xadrez-Console\\Xadrez-Console.csproj": {
+    "D:\\workspace\\xadrez-console\\Xadrez-Console\\Xadrez-Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\workspace\\Xadrez-Console\\Xadrez-Console\\Xadrez-Console.csproj",
+        "projectUniqueName": "D:\\workspace\\xadrez-console\\Xadrez-Console\\Xadrez-Console.csproj",
         "projectName": "Xadrez-Console",
-        "projectPath": "D:\\workspace\\Xadrez-Console\\Xadrez-Console\\Xadrez-Console.csproj",
+        "projectPath": "D:\\workspace\\xadrez-console\\Xadrez-Console\\Xadrez-Console.csproj",
         "packagesPath": "C:\\Users\\Victor\\.nuget\\packages\\",
-        "outputPath": "D:\\workspace\\Xadrez-Console\\Xadrez-Console\\obj\\",
+        "outputPath": "D:\\workspace\\xadrez-console\\Xadrez-Console\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Victor\\AppData\\Roaming\\NuGet\\NuGet.Config",
