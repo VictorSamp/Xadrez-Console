@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace xadrez_console
+namespace Xadrez_Console
 {
     class Program
     {
